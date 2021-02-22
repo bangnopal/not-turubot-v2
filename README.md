@@ -39,7 +39,7 @@ If you find some bugs please contact the WhatsApp number on Contact
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
-- [TURUAPI](https://turuapi.org) / (https://naufalhoster.xyz)
+- [TURUAPI](https://turuapi.org) / [(https://naufalhoster.xyz)]
 - [VHTEAR](https://api.vhtear.com)
 - [MELODICXT](https://melodicxt.herokuapp.com/api)
 - [TOBZAPI](https://tobz-api.herokuapp.com)
