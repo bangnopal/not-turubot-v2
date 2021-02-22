@@ -1,0 +1,14 @@
+{
+  "limitCount": 25,
+  "memberLimit": 25,
+  "groupLimit": 25,
+  "turukey": "GET YOUR OWN APIKEY HERE: HTTPS://TURUAPI.ORG",
+  "melodickey": "YOUR_APIKEY",
+  "vhtearkey": "YOUR_APIKEY",
+  "tobzkey": "YOUR_APIKEY",
+  "mtc": false,
+  "restartState": false,
+  "restartId": "undefined",
+  "banChats": false,
+  "Rest": true
+}
